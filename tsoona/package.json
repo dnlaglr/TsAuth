@@ -1,0 +1,32 @@
+{
+  "name": "tsoona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlaglr/Tsoona.git"
+  },
+  "author": "dnlaglr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnlaglr/Tsoona/issues"
+  },
+  "homepage": "https://github.com/dnlaglr/Tsoona#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.12.7"
+  }
+}
